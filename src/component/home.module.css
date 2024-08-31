@@ -1,0 +1,50 @@
+.homeContainer {
+    padding: 2rem;
+    background-color: #f8f9fa; /* Light background color for the container */
+  }
+  
+  .homeContent {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .homeTableContainer {
+    margin-top: 2rem;
+  }
+  
+  .contactTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .tableHeader {
+    background-color: #6c757d; /* Dark gray background for table header */
+    color: white;
+  }
+  
+  .headerCell {
+    text-align: left;
+    padding: 1rem;
+    font-weight: bold;
+  }
+  
+  .tableCell {
+    padding: 0.75rem;
+    border-bottom: 1px solid #dee2e6; /* Light border for table rows */
+  }
+  
+  .actionButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .actionButton img {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .actionButton img:hover {
+    opacity: 0.8; /* Slightly dim the image on hover for visual feedback */
+  }
+  
